@@ -1,7 +1,5 @@
 # re_to_joblib
 
-the joblib issue about unsafe pickle is closed. so i just write here
-
 ## the point of sec issue
 
 In my opinion,the focus of discussing security issues is to help programmers comply with security norms and guidelines, not whether it will cause harm or whether it is easy to reach.If all programmers can write code safely, then the security problems we face will be reduced a lot.
